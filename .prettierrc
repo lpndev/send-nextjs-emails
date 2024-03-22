@@ -1,7 +1,0 @@
-{
-  "bracketSameLine": false,
-  "jsxSingleQuote": true,
-  "semi": false,
-  "singleQuote": true,
-  "plugins": ["prettier-plugin-sort-imports", "prettier-plugin-tailwindcss"]
-}
